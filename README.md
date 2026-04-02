@@ -4,9 +4,9 @@ Dual B.S. Biomedical Engineering & Mechanical Engineering
 
 What I'm working on
 
-Deepfake detection research @ UMich Deep Fake Lab — audio deepfake classification using MFCC/spectrogram features, CUDA-optimized on NVIDIA A100 GPUs
-Production AI systems — deployed end-to-end LLM-powered WhatsApp lead qualification pipeline (n8n + OpenAI + Zoho CRM) serving a live real estate platform
-Health AI — building clinical NLP models at the intersection of my Biomedical Engineering and ML backgrounds
+a. Deepfake detection research @ UMich Deep Fake Lab — audio deepfake classification using MFCC/spectrogram features, CUDA-optimized on NVIDIA A100 GPUs
+b. Production AI systems  deployed end-to-end LLM-powered WhatsApp lead qualification pipeline (n8n + OpenAI + Zoho CRM) serving a live real estate platform
+
 
 
 Open to opportunities
