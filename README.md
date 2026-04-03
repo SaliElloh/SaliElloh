@@ -11,4 +11,6 @@ b. Production AI systems  deployed end-to-end LLM-powered WhatsApp lead qualific
 
 Open to opportunities
 I'm actively looking for Machine Learning Engineer and Data Scientist roles in the US — especially in health AI, autonomous systems, and applied AI engineering.
-📬 selloh@umich.edu · LinkedIn
+📬 selloh@umich.edu · LinkedIn: https://www.linkedin.com/in/salielloh12/?skipRedirect=true
+
+
